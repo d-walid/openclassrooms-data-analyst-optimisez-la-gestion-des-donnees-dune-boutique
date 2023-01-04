@@ -11,5 +11,5 @@
 
 
 ## Troisième partie - traitement des outliers
-    - Utilisation de la méthode inter-quartile
-    - Utilisation de la méthode z-score
+ - Utilisation de la méthode inter-quartile
+ - Utilisation de la méthode z-score
